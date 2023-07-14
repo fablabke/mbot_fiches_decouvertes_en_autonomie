@@ -4,9 +4,11 @@ Voici une série de 6 fiches pour découvrir la programmation des robots Mbot.
 Elles furent élaborées par Sabri, fab-animateur en formation au Fablab'ke.
 Les fiches proposent de mini challenges.
 
-Les fiches sont plastifiées pour deux parties sont pliées de maintenus par du scratch.
-Le participant décide par lui-même d'ouvrir les volets.
+Les fiches sont plastifiées. 
+Deux parties sont pliées de maintenus par du scratch.
 Le premier l'aide à choisir les blocs, le second donne une des réponses possibles.
+
+Le participant décide par lui-même d'ouvrir les volets.
 
 ![PXL_20230714_144240815](https://github.com/fablabke/mbot_fiches_decouvertes_en_autonomie/assets/21321409/34919871-4c00-4423-aa6a-c041cd91a836)
 ![PXL_20230714_144254559](https://github.com/fablabke/mbot_fiches_decouvertes_en_autonomie/assets/21321409/297ab1b0-7ebc-4695-bac7-793fbfb1952d)
